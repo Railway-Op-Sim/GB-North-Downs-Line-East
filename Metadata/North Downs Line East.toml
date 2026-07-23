@@ -1,0 +1,15 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "Norht Downs Line from Guildford to Redhill"
+display_name = 'North Downs Line East'
+doc_files = [ 'North Downs Line East.md' ]
+factual = true
+img_files = [ 'North_Downs_Line_East.bmp' ]
+name = 'North Downs Line East'
+release_date = '2022-08-27'
+year = 2022
+signal_position = "left"
+rly_file = 'North Downs Line East.rly'
+ssn_files = [ 'North Downs Line East Initial Session.ssn']
+ttb_files = [ 'North Downs Line East 31-08-22.ttb' ]
+version = '1.0.0'
